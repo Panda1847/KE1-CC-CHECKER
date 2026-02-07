@@ -1,5 +1,12 @@
 # KE1-CC-CHECKER
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/KE1-CC-CHECKER)](https://github.com/Panda1847/KE1-CC-CHECKER/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/KE1-CC-CHECKER)](https://github.com/Panda1847/KE1-CC-CHECKER/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/KE1-CC-CHECKER)](https://github.com/Panda1847/KE1-CC-CHECKER/issues)
+[![Language](https://img.shields.io/badge/language-JavaScript-blue.svg)](https://github.com/Panda1847/KE1-CC-CHECKER)
+
+
 KE1-CC-CHECKER is an credit card checker tool designed to simulate the process of validating credit card numbers. This project is for educational purposes only and should not be used for any illegal activities.
 
 ## Features
